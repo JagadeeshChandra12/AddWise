@@ -34,7 +34,7 @@ Gps-Tracker-add-wise-tech is a full-stack IoT web application for real-time devi
 1. **Clone the repository**
    ```sh
    git clone https://github.com/JagadeeshChandra12/Gps-Tracker-add-wise-tech.git
-   cd Gps-Tracker-add-wise-tech
+   cd AddWise
    ```
 2. **Install dependencies**
    ```sh
